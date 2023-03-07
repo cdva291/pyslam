@@ -1,0 +1,1 @@
+ffmpeg -ss 05:02:55 -t 30 -i "C:\Users\dthomane\Downloads\nordlandsbanen.summer.sync.1920x1080.h264.nrk.mp4" %04d.png
