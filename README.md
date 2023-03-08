@@ -184,8 +184,8 @@ Suggested material:
 ## Results
 
 <img src="https://github.com/cdva291/pyslam/blob/master/Forrest_implementation.png">
-<img src="https://github.com/cdva291/pyslam/blob/master/data_scene1.png)">
-<img src="src=https://github.com/cdva291/pyslam/blob/master/data_finished.png">
+<img src="https://github.com/cdva291/pyslam/blob/master/data_scene1.png">
+<img src="https://github.com/cdva291/pyslam/blob/master/data_finished.png">
 
 
 ---
